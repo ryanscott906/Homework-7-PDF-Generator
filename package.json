@@ -1,0 +1,23 @@
+{
+  "name": "homework-7-pdf-generator",
+  "version": "1.0.0",
+  "description": "After entering a GitHub username, a PDF is made that lists info provided with help from the GitHub API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanscott906/Homework-7-PDF-Generator.git"
+  },
+  "author": "Ryan Scott",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "inquirer": "^6.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanscott906/Homework-7-PDF-Generator/issues"
+  },
+  "homepage": "https://github.com/ryanscott906/Homework-7-PDF-Generator#readme"
+}
